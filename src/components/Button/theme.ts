@@ -55,7 +55,7 @@ export const light: ButtonTheme = {
     color: "#FFFFFF",
   },
   [SUBTLE]: {
-    background: lightColors.textSubtle,
+    background: lightColors.card,
     backgroundActive: `${lightColors.textSubtle}D9`, // 70% opacity
     backgroundHover: `${lightColors.textSubtle}B3`, // 85% opacity
     border: 0,
